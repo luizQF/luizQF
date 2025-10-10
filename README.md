@@ -32,5 +32,5 @@ Aqui estão algumas das tecnologias e ferramentas que uso:
 
 Você pode me encontrar em:
 
-- <a href="www.linkedin.com/in/luiz-felipe-queiroz-0802a3367" target="_blank"> Linkedin </a>
+- www.linkedin.com/in/luiz-felipe-queiroz-0802a3367
 - luizfqueiroz1811@gmail.com 
