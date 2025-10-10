@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Luiz 👋
 
-<!--
-**luizQF/luizQF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Meu Gif](meu-gif.gif)
 
-Here are some ideas to get you started:
+Sou desenvolvedor focado em **Java e Spring Boot**, com conhecimentos extras em **C++, MySQL, JSF, HTML, CSS, JavaScript e React**.  
+Também tive experiência com **Arduino** em projetos simples. Trabalho com **projetos de automação e impressão 3D**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+## 🛠 Tecnologias
+
+Aqui estão algumas das tecnologias e ferramentas que uso:
+
+- **Linguagens:** Java, C++, JavaScript, HTML, CSS  
+- **Frameworks:** Spring Boot, React, JSF  
+- **Bancos de dados:** MySQL  
+- **Hardware & Outros:** Arduino, Qt, Impressão 3D  
+
+---
+
+## 📂 Projetos
+
+- Em breve: estou organizando meus projetos para compartilhar aqui no GitHub.
+
+---
+
+## 📫 Contato
+
+Você pode me encontrar em:
+
+- [LinkedIn](www.linkedin.com/in/luiz-felipe-queiroz-0802a3367)  
+- [Email](luizfqueiroz1811@gmail.com)  
