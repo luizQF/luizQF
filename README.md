@@ -1,6 +1,8 @@
 # Olá, eu sou o Luiz 👋
+<p align="center">
+  <img src="meu-gif.gif" alt="Meu Projeto em Ação" width="300"/>
+</p>
 
-![Meu Gif](meu-gif.gif)
 
 Sou desenvolvedor focado em **Java e Spring Boot**, com conhecimentos extras em **C++, MySQL, JSF, HTML, CSS, JavaScript e React**.  
 Também tive experiência com **Arduino** em projetos simples. Trabalho com **projetos de automação e impressão 3D**.
