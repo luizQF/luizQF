@@ -1,6 +1,6 @@
 # Olá, eu sou o Luiz 👋
 <p align="center">
-  <img src="meu-gif.gif" alt="Meu Projeto em Ação" width="800"/>
+  <img src="meu-gif.gif" alt="Meu Projeto em Ação" width="600"/>
 </p>
 
 
