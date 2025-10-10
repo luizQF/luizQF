@@ -1,6 +1,6 @@
 # BackEnd Developer 👋
 <p align="center">
-  <img src="java.png" alt="Logojava" width="100"/> <img src="sql.png" alt="Logojava" width="600"/> <img src="cpp.png" alt="Logojava" width="600"/>
+  <img src="java.webp" alt="Logojava" width="100"/> <img src="sql.png" alt="Logosql" width="600"/> <img src="cpp.png" alt="Logocpp" width="600"/>
 </p>
 
 
