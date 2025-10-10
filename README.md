@@ -1,6 +1,6 @@
-# Olá, eu sou o Luiz 👋
+# BackEnd Developer 👋
 <p align="center">
-  <img src="meu-gif.gif" alt="Meu Projeto em Ação" width="600"/>
+  <img src="java.jpg" alt="Logojava" width="100"/> <img src="sql.jpg" alt="Logojava" width="600"/> <img src="cpp.jpg" alt="Logojava" width="600"/>
 </p>
 
 
