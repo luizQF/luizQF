@@ -21,7 +21,7 @@ Aqui estão algumas das tecnologias e ferramentas que uso:
 - **Linguagens:** Java, C++, JavaScript, HTML, CSS  
 - **Frameworks:** Spring Boot, React, JSF  
 - **Bancos de dados:** MySQL  
-- **Hardware & Outros:** Arduino, Qt, Impressão 3D  
+- **Hardware & Outros:** Arduino, Qt, Impressão 3D 
 
 ---
 
