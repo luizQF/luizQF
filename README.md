@@ -16,7 +16,7 @@ Também tive experiência com **Arduino** em projetos simples. Trabalho com **pr
 
 ## 🛠 Tecnologias
 
-Aqui estão algumas das tecnologias e ferramentas que uso:
+Aqui estão algumas das tecnologias e ferramentas que uso: 
 
 - **Linguagens:** Java, C++, JavaScript, HTML, CSS  
 - **Frameworks:** Spring Boot, React, JSF  
