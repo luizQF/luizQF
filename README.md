@@ -2,7 +2,7 @@
 <p align="center">
   <img src="java.webp" alt="Logojava" width="180"/> <img src="cpp.png" alt="Logocpp" width="130" margin="50"/>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizQF&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=luizQF&show_icons=true&theme=radical
 
 
 Sou desenvolvedor focado em **Java e Spring Boot**, com conhecimentos extras em **C++, MySQL, JSF, HTML, CSS, JavaScript e React**.  
