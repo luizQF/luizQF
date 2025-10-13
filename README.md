@@ -27,7 +27,7 @@ Aqui estão algumas das tecnologias e ferramentas que uso:
 
 ## 📂 Projetos
 
-- Em breve: estou organizando meus projetos para compartilhar aqui no GitHub.
+[GitHub - Meu Projeto ToDoList](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO)
 
 ---
 
