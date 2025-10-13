@@ -1,6 +1,6 @@
 # BackEnd Developer 👋
 <p align="center">
-  <img src="java.webp" alt="Logojava" width="180"/> <img src="cpp.png" alt="Logocpp" width="130" margin="50"/>
+  <img src="java.webp" alt="Logojava" width="150"/> <img src="cpp.png" alt="Logocpp" width="110" margin="50"/>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizQF&show_icons=true&theme=radical)
