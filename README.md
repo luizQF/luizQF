@@ -1,10 +1,8 @@
-# BackEnd Developer 👋
+# BackEnd Developer 
 <p align="center">
   <img src="java.webp" alt="Logojava" width="150"/> <img src="cpp.png" alt="Logocpp" width="110" margin="50"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizQF&show_icons=true&theme=radical)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizQF&layout=compact&theme=tokyonight)
 
 
 Sou desenvolvedor focado em **Java e Spring Boot**, com conhecimentos extras em **C++, MySQL, JSF, HTML, CSS, JavaScript e React**.  
@@ -25,13 +23,13 @@ Aqui estão algumas das tecnologias e ferramentas que uso:
 
 ---
 
-## 📂 Projetos
+## Projetos
 
 [GitHub - Meu Projeto ToDoList [Código]](https://github.com/luizQF/Projeto-TodoList)
 
 ---
 
-## 📫 Contato
+## Contato
 
 Você pode me encontrar em:
 
