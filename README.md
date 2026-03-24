@@ -1,4 +1,4 @@
-<h1>🚀 Luiz Felipe Queiroz<h1/>
+🚀 Luiz Felipe Queiroz
 
 💻 Full Stack Developer
 🎯 Construindo aplicações modernas e escaláveis
