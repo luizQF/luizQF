@@ -28,4 +28,4 @@ Desenvolvedor focado em evolução constante, com experiência prática em proje
 💡 Aprendizado rápido
 
 🔥 Snake Animation
-<p align="center"> <img src="https://github.com/luizQF/luizQF/blob/output/github-contribution-grid-snake.svg"/> </p>
+![Snake animation](https://github.com/luizQF/luizQF/blob/output/github-contribution-grid-snake.svg)
