@@ -19,7 +19,7 @@ Desenvolvedor focado em evolução constante, com experiência prática em proje
 📈 Atualmente estudando
 <p align="center"> <img src="https://skillicons.dev/icons?i=react" height="50"/> <img src="https://skillicons.dev/icons?i=ts" height="50"/> <img src="https://skillicons.dev/icons?i=nodejs" height="50"/> </p>
 📊 GitHub Stats
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/> </p>
+<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=luizQF&show_icons=true&theme=tokyonight"/> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizQF&layout=compact&theme=tokyonight"/> </p>
 ⚡ Diferencial
 
 💡 Experiência prática
@@ -28,4 +28,4 @@ Desenvolvedor focado em evolução constante, com experiência prática em proje
 💡 Aprendizado rápido
 
 🔥 Snake Animation
-<p align="center"> <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"> <img src="https://github.com/luizQF/luizQF/blob/output/github-contribution-grid-snake.svg"/> </p>
