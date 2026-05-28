@@ -13,17 +13,22 @@ jobs:
       contents: write
 
     steps:
+      # 1. Clones your repository
       - uses: actions/checkout@v4
 
+      # 2. Generates the snake files inside the 'dist' folder
       - uses: Platane/snk@v3
         with:
           github_user_name: luizQF
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+      # 3. Deploys the files safely
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          allow_empty_commit: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
