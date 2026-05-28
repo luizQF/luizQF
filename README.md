@@ -43,8 +43,8 @@ I am a developer focused on continuous evolution, with practical experience buil
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizQF&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizQF&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-two-nu.vercel.app/api?username=luizQF&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=luizQF&layout=compact&theme=tokyonight" />
 </p>
 
 ---
