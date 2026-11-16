@@ -51,7 +51,7 @@ I am a developer focused on continuous evolution, with practical experience buil
 
 ## Core Strengths
 
-* **Practical Experience:** Proven track record working on real-world systems.
+* **Practical Experience:** My technical background covers Ubuntu Linux environments, Docker containerization, Git workflows, Active Directory/LDAP configuration, and classical software design patterns, alongside hands-on experience developing and managing internal organizational tools such as service queue and inventory tracking systems.
 * **Full Stack Architecture:** Capable of bridging back-end logic with front-end components.
 * **Result-Oriented:** Focused on deliverable value, performance, and clean code.
 * **Fast Learner:** Adaptable to new technologies, workflows, and business rules.
