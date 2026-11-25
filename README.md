@@ -20,7 +20,7 @@ I am a developer focused on continuous evolution, with practical experience buil
 
 ### Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,java,nodejs" />
 </p>
 
 ### Database
